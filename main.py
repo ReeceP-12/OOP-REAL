@@ -52,7 +52,7 @@ if ans3 == "CPU":
     print(cpu_shop)
 elif ans3 == "GPU":
     print(gpu_shop)
-
+#homepage 
 def homepage():
     """Main homepage menu."""
     while True:
